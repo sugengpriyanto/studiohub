@@ -1,0 +1,5 @@
+export {default as Navbar} from './Navbar'
+export {default as Hero} from './Hero'
+export {default as Instant} from './Instant'
+export {default as Promo} from './Promo'
+export {default as Footer} from './Footer'
